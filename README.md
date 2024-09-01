@@ -125,6 +125,7 @@ int main()
 }
 ```
 OUTPUT:-
+
 ![Ex-5 JPG](https://github.com/user-attachments/assets/7d5c9039-ff21-428c-8d6c-4b8daa4c524a)
 
 
